@@ -5,6 +5,9 @@
 
 ### Check out my most recent projects!👇
 [![Readme Card](https://github-readme-stats-sandy-sigma.vercel.app/api/pin/?username=neematoto&repo=radiant-skies)](https://github.com/NeemaToto/radiant-skies.git)
+[![Readme Card](https://github-readme-stats-sandy-sigma.vercel.app/api/pin/?username=neematoto&repo=BeatBlendr)](https://github.com/NeemaToto/BeatBlendr.git)
+
+
 <!--
 **NeemaToto/NeemaToto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
