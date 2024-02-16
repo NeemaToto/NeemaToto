@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![GitHub Stats Card](https://github-readme-stats-sandy-sigma.vercel.app/api?username=neematoto&hide=contribs&show_icons=true&theme=github_dark) ![Top Languages Card](https://github-readme-stats-sandy-sigma.vercel.app/api/top-langs/?username=neematoto&layout=compact&theme=github_dark)
+![GitHub Stats Card](https://github-readme-stats-sandy-sigma.vercel.app/api?username=neematoto&hide=contribs&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats-sandy-sigma.vercel.app/api/top-langs/?username=neematoto&layout=compact&theme=radical)
 
 
 
