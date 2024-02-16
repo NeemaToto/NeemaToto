@@ -8,9 +8,9 @@
 [![Readme Card](https://github-readme-stats-sandy-sigma.vercel.app/api/pin/?username=neematoto&repo=BeatBlendr)](https://github.com/NeemaToto/BeatBlendr.git)
 
 ### Languages
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-f3e050?style=for-the-badge&logo=Javascript">
-<img alt="NextJs" src="https://img.shields.io/badge/Next.js%20-ff006e?style=for-the-badge&logo=Next.js">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Expo%20-3a86ff?style=for-the-badge&logo=Expo">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-7d7328?style=for-the-badge&logo=Javascript">
+<img alt="NextJs" src="https://img.shields.io/badge/Next.js%20-171717?style=for-the-badge&logo=Next.js">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-3a86ff?style=for-the-badge&logo=Expo">
 <img alt="Expo" src="https://img.shields.io/badge/Expo%20-3a86ff?style=for-the-badge&logo=Expo">
 
 
