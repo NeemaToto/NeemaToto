@@ -10,7 +10,7 @@
 ### Languages
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-7d7328?style=for-the-badge&logo=Javascript">
 <img alt="NextJs" src="https://img.shields.io/badge/Next.js%20-171717?style=for-the-badge&logo=Next.js">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/visualstudiocode-3a86ff?style=for-the-badge&logo=Expo">
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-3a86ff?style=for-the-badge&logo=visualstudiocode">
 <img alt="Expo" src="https://img.shields.io/badge/Expo%20-3a86ff?style=for-the-badge&logo=Expo">
 
 
