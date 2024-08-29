@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🙋‍♂️ I'm a web developer from Vancouver, BC specializing in front-end development and UX/UI design!
+- 🙋‍♂️ I'm a web developer from specializing in front-end development and UX/UI design!
 - 🔭 I’m always updating my work, so check it out at [my portfolio](https://neematotonchi.ca)
 - 📫 How to reach me: neematotonchi@gmail.com
 
